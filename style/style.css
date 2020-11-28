@@ -1,11 +1,11 @@
 @font-face {
-  font-family: 'koton1-regular';
-    src: url('koton1-regular.eot'); /* IE9 Compat Modes */
-    src: url('koton1-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-        url('koton1-regular.woff2') format('woff2'), /* Super Modern Browsers */
-        url('koton1-regular.woff') format('woff'), /* Pretty Modern Browsers */
-        url('koton1-regular.ttf')  format('truetype'), /* Safari, Android, iOS */
-        url('koton1-regular.svg#svgkoton1-regular') format('svg'); /* Legacy iOS */
+  font-family: 'koton-regular';
+    src: url('koton-regular.eot'); /* IE9 Compat Modes */
+    src: url('koton-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('koton-regular.woff2') format('woff2'), /* Super Modern Browsers */
+        url('koton-regular.woff') format('woff'), /* Pretty Modern Browsers */
+        url('koton-regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('koton-regular.svg#svgkoton1-regular') format('svg'); /* Legacy iOS */
     font-weight: 400;
     font-style: normal;
   }
@@ -67,7 +67,7 @@ h2 {
 
 h3 {
     color: white;
-    font-family: 'koton1-regular';
+    font-family: 'koton-regular';
     text-align: justify;
     font-size: 20px;
     margin-top: 2px;
@@ -274,7 +274,7 @@ h2 {
 
 h3 {
     color: white;
-    font-family: 'koton1-regular';
+    font-family: 'koton-regular';
     text-align: justify;
     font-size: 17px;
     margin-top: 12px;
@@ -378,7 +378,7 @@ padding: 0.5em;
 
 h5 {
     color: white;
-    font-family: 'koton1-regular';
+    font-family: 'koton-regular';
     text-align: justify;
     font-size: 17px;
     margin-top: 12px;
