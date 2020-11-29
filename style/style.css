@@ -39,7 +39,7 @@ body{
     bottom: 0;
     display: flex;
     margin: 0px;
-    justify-content: start;
+    justify-content: space-between;
     background-image: url(../background.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -150,25 +150,23 @@ image-wrapper {
 
 
 #draggable {
-::-webkit-scrollbar {
-  background-color: #00FFFF;
-  width: 5px;
-  height: 5px;
   padding: -0.5em;
+  top: 30px;
 
 }
 }
 
 #draggable2 {
-width: 270px;
-height: 450px;
 padding: -0.5em;
+top: 40px;
+
 }
 
 
 #draggable3 {
-   height: 300px;
    padding: -0.5em;
+     top: 25px;
+
 }
 
 
