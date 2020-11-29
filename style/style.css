@@ -1,11 +1,11 @@
 @font-face {
-  font-family: 'koton-regular';
-    src: url('koton-regular.eot'); /* IE9 Compat Modes */
-    src: url('koton-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-        url('koton-regular.woff2') format('woff2'), /* Super Modern Browsers */
-        url('koton-regular.woff') format('woff'), /* Pretty Modern Browsers */
-        url('koton-regular.ttf')  format('truetype'), /* Safari, Android, iOS */
-        url('koton-regular.svg#svgkoton-regular') format('svg'); /* Legacy iOS */
+  font-family: 'Koton-Regular';
+    src: url('Koton-Regular.eot'); /* IE9 Compat Modes */
+    src: url('Koton-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('Koton-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+        url('Koton-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+        url('Koton-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('Koton-Regular.svg#svgKoton-Regular') format('svg'); /* Legacy iOS */
     font-weight: 400;
     font-style: normal;
   }
@@ -49,7 +49,6 @@ body{
 
 h1 {
   color: blue;
-  background-color: white;
   font-family: AGBookPro-RegExt;
   font-size: 23px;
   padding-left: 8px;
@@ -58,7 +57,6 @@ h1 {
 
 h2 {
   color: blue;
-  background-color: white;
   font-family: AGBookPro-RegExt;
   font-size: 23px;
   padding-left: 8px;
