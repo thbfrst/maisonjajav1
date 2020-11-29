@@ -5,7 +5,7 @@
         url('koton-regular.woff2') format('woff2'), /* Super Modern Browsers */
         url('koton-regular.woff') format('woff'), /* Pretty Modern Browsers */
         url('koton-regular.ttf')  format('truetype'), /* Safari, Android, iOS */
-        url('koton-regular.svg#svgkoton1-regular') format('svg'); /* Legacy iOS */
+        url('koton-regular.svg#svgkoton-regular') format('svg'); /* Legacy iOS */
     font-weight: 400;
     font-style: normal;
   }
@@ -230,7 +230,7 @@ width: 270px; height: 450px; padding: 0.5em;
 
 
 
-@media all and (max-width: 450px) and (min-width: 330px) {
+@media all and (max-width: 450px) and (min-width: 100px) {
 
   body{
     background-color: blue;
@@ -243,6 +243,7 @@ width: 270px; height: 450px; padding: 0.5em;
     bottom: 0;
     display: flex;
     margin: 0px;
+    background-image: none;
     }
 
   h1 {
@@ -297,26 +298,27 @@ a {
 
 #draggable3 {
   width: 100%;
-  height: 400px;
+  height: 70vh;
   padding: 0.5em;
   position: relative;
-  margin-bottom: 90px;
+  margin-bottom: 19px;
   margin-top: 15px;
 }
 
 .container3 {
   width: 95%;
-  margin-bottom: 30px;
+  margin-bottom: 19px;
 }
 
 
 
 #div1 {
   background-color: white;
-  height:450px;
+  height:70vh;
   width:100%;
   overflow:auto;
   border:1px solid blue;
+  margin-bottom: 19px;
 }
 
 
@@ -325,7 +327,7 @@ a {
 
 
 #div3 {
-  height:120px;
+  height:20vh;
   width:100%;
   border:1px solid blue;
 
@@ -333,14 +335,14 @@ a {
 
 #draggable2 {
 width: 96%;
-height: 120px;
+height: 20vh;
 padding: 0.5em;
 }
 
 
 .container2 {
       width: 95%;
-      height: 120px;
+      height: 20vh;
       position: absolute;
 }
 
