@@ -150,7 +150,6 @@ image-wrapper {
 
 
 #draggable {
-width: 450px; height: 270px; padding: 0.5em;
 ::-webkit-scrollbar {
   background-color: #00FFFF;
   width: 5px;
