@@ -39,6 +39,7 @@ body{
     bottom: 0;
     display: flex;
     margin: 0px;
+    padding: 0px;
     justify-content: space-around;
     background-image: url(../background.png);
     background-repeat: no-repeat;
