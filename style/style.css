@@ -296,12 +296,14 @@ a {
 }
 
 #draggable3 {
-  width: 100%;
+  width: 90%;
   height: 70vh;
-  padding: 0.5em;
+  padding: -0.5em;
   position: relative;
   margin-bottom: 44px;
   margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .container3 {
@@ -333,9 +335,13 @@ a {
 }
 
 #draggable2 {
-width: 96%;
+width: 90%;
 height: 20vh;
-padding: 0.5em;
+padding: -0.5em;
+margin-left: auto;
+margin-right: auto;
+margin-bottom
+
 }
 
 
