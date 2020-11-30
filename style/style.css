@@ -151,8 +151,9 @@ image-wrapper {
 
 
 #draggable {
-width: 450px; height: 270px; padding: 0.5em;
-  padding: -0.5em;
+width: 450px;
+height: 270px;
+padding: -0.5em;
   top: 10px;
 }
 
