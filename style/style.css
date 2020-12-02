@@ -304,16 +304,17 @@ a {
   height: 55vh;
   padding: -0.5em;
   position: relative;
-  margin-bottom: 60px;
+  margin-bottom: 120px;
   margin-top: 5px;
   margin-left: auto;
   margin-right: auto;
+  padding:0px;
 }
 
 .container3 {
   width: 90%;
   height: 55vh;
-  margin-bottom: 19px;
+  margin-bottom: 120px;
     margin-left: auto;
   margin-right: auto;
 }
@@ -326,7 +327,7 @@ a {
   width:90%;
   overflow:auto;
   border:1px solid blue;
-  margin-bottom: 19px;
+  margin-bottom: 120px;
     margin-left: auto;
   margin-right: auto;
 }
