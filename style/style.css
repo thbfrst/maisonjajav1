@@ -306,9 +306,10 @@ a {
   position: relative;
   margin-bottom: 120px;
   margin-top: 5px;
+  margin-top: auto;
   margin-left: auto;
   margin-right: auto;
-  padding:0px;
+  margin-bottom: auto;
 }
 
 .container3 {
@@ -317,19 +318,24 @@ a {
   margin-bottom: 120px;
     margin-left: auto;
   margin-right: auto;
+    padding: -0.5em;
+
 }
 
 
 
 #div1 {
   background-color: white;
-  height: 55vh;
-  width:90%;
+  height: 45vh;
+  width:95%;
   overflow:auto;
   border:1px solid blue;
   margin-bottom: 120px;
-    margin-left: auto;
+    margin-top: auto;
+  margin-left: auto;
   margin-right: auto;
+  margin-bottom: auto;
+    padding: -0.5em;
 }
 
 
@@ -338,7 +344,15 @@ a {
 
 
 #draggable2 {
-display: none;
+  width: 90%;
+  height: 42vh;
+  padding: -0.5em;
+  position: relative;
+  margin-bottom: 120px;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
 }
 
 
@@ -354,12 +368,13 @@ display: none;
 
 #div3 {
   background-color: white;
-  height:30vh;
+  height:37vh;
   width:100%;
   overflow:auto;
   border:1px solid blue;
   margin-bottom: 19px;
-    margin-left: auto;
+   margin-top: auto;
+  margin-left: auto;
   margin-right: auto;
 
 }
